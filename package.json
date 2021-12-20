@@ -1,0 +1,28 @@
+{
+  "name": "cheerio-scraping",
+  "version": "1.0.0",
+  "description": "web scraping con cherrio, node, javascript, async-await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aAndres441/Cheeri-web-scraping.git"
+  },
+  "keywords": [
+    "cheerio",
+    "async-await",
+    "node"
+  ],
+  "author": "andres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aAndres441/Cheeri-web-scraping/issues"
+  },
+  "homepage": "https://github.com/aAndres441/Cheeri-web-scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
